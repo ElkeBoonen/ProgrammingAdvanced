@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JiNI9mRJWkqyGRWZJU6itm7OQfzYF3J9Dk3Ja4kgPomRbKLdKKtzbIkEHqviE/oBUpkOxuriqteKY9tuxtHF6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elkeb\\source\\repos\\ElkeBoonen\\ProgrammingAdvanced\\HelloBigO\\HelloBigO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elkeb\\.nuget\\packages\\tm.programmingadvanced\\1.0.1\\tm.programmingadvanced.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\HelloBigO\bin\Debug\netcoreapp3.1\HelloBigO.exe
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\HelloBigO\obj\Debug\netcoreapp3.1\HelloBigO.csprojAssemblyReference.cache
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\HelloBigO\obj\Debug\netcoreapp3.1\HelloBigO.AssemblyInfoInputs.cache
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\HelloBigO\obj\Debug\netcoreapp3.1\HelloBigO.AssemblyInfo.cs
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\HelloBigO\obj\Debug\netcoreapp3.1\HelloBigO.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\HelloBigO\bin\Debug\netcoreapp3.1\HelloBigO.deps.json
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\HelloBigO\bin\Debug\netcoreapp3.1\HelloBigO.runtimeconfig.json
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\HelloBigO\bin\Debug\netcoreapp3.1\HelloBigO.runtimeconfig.dev.json
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\HelloBigO\bin\Debug\netcoreapp3.1\HelloBigO.dll
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\HelloBigO\bin\Debug\netcoreapp3.1\HelloBigO.pdb
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\HelloBigO\bin\Debug\netcoreapp3.1\TM.ProgrammingAdvanced.dll
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\HelloBigO\obj\Debug\netcoreapp3.1\HelloBigO.csproj.CopyComplete
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\HelloBigO\obj\Debug\netcoreapp3.1\HelloBigO.dll
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\HelloBigO\obj\Debug\netcoreapp3.1\HelloBigO.pdb
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\HelloBigO\obj\Debug\netcoreapp3.1\HelloBigO.genruntimeconfig.cache

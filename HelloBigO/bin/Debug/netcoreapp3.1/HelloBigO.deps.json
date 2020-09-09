@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HelloBigO/1.0.0": {
+        "dependencies": {
+          "TM.ProgrammingAdvanced": "1.0.1"
+        },
+        "runtime": {
+          "HelloBigO.dll": {}
+        }
+      },
+      "TM.ProgrammingAdvanced/1.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/TM.ProgrammingAdvanced.dll": {
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "1.0.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HelloBigO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TM.ProgrammingAdvanced/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kp92ZYlfNh+1Ged0MBxLuXY3ZicclLCRtdzmUF9rGJ+7j8DYUA0KdT0itpuJ6b8dQ5hTMBG705YVTkQD+7Qxdw==",
+      "path": "tm.programmingadvanced/1.0.1",
+      "hashPath": "tm.programmingadvanced.1.0.1.nupkg.sha512"
+    }
+  }
+}
