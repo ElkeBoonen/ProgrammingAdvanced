@@ -1,0 +1,13 @@
+C:\Users\elkeb\Source\Repos\ElkeBoonen\ProgrammingAdvanced\Recursion\bin\Debug\netcoreapp3.0\Recursion.exe
+C:\Users\elkeb\Source\Repos\ElkeBoonen\ProgrammingAdvanced\Recursion\bin\Debug\netcoreapp3.0\Recursion.deps.json
+C:\Users\elkeb\Source\Repos\ElkeBoonen\ProgrammingAdvanced\Recursion\bin\Debug\netcoreapp3.0\Recursion.runtimeconfig.json
+C:\Users\elkeb\Source\Repos\ElkeBoonen\ProgrammingAdvanced\Recursion\bin\Debug\netcoreapp3.0\Recursion.runtimeconfig.dev.json
+C:\Users\elkeb\Source\Repos\ElkeBoonen\ProgrammingAdvanced\Recursion\bin\Debug\netcoreapp3.0\Recursion.dll
+C:\Users\elkeb\Source\Repos\ElkeBoonen\ProgrammingAdvanced\Recursion\bin\Debug\netcoreapp3.0\Recursion.pdb
+C:\Users\elkeb\Source\Repos\ElkeBoonen\ProgrammingAdvanced\Recursion\bin\Debug\netcoreapp3.0\TM.ProgrammingAdvanced.dll
+C:\Users\elkeb\Source\Repos\ElkeBoonen\ProgrammingAdvanced\Recursion\obj\Debug\netcoreapp3.0\Recursion.csprojAssemblyReference.cache
+C:\Users\elkeb\Source\Repos\ElkeBoonen\ProgrammingAdvanced\Recursion\obj\Debug\netcoreapp3.0\Recursion.AssemblyInfoInputs.cache
+C:\Users\elkeb\Source\Repos\ElkeBoonen\ProgrammingAdvanced\Recursion\obj\Debug\netcoreapp3.0\Recursion.AssemblyInfo.cs
+C:\Users\elkeb\Source\Repos\ElkeBoonen\ProgrammingAdvanced\Recursion\obj\Debug\netcoreapp3.0\Recursion.csproj.CopyComplete
+C:\Users\elkeb\Source\Repos\ElkeBoonen\ProgrammingAdvanced\Recursion\obj\Debug\netcoreapp3.0\Recursion.dll
+C:\Users\elkeb\Source\Repos\ElkeBoonen\ProgrammingAdvanced\Recursion\obj\Debug\netcoreapp3.0\Recursion.pdb

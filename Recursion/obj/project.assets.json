@@ -1,0 +1,97 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "TM.ProgrammingAdvanced/1.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/TM.ProgrammingAdvanced.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/TM.ProgrammingAdvanced.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TM.ProgrammingAdvanced/1.0.3": {
+      "sha512": "y4BdgWNOiXCw9bGVYnyRT6TXhgjdhmGRRA9mJ5MXyh6vlZl/P1ThDxTTtaBjRJnTbMsxvL28ZLFvF2qXfGFhrA==",
+      "type": "package",
+      "path": "tm.programmingadvanced/1.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/TM.ProgrammingAdvanced.dll",
+        "license.txt",
+        "tm.programmingadvanced.1.0.3.nupkg.sha512",
+        "tm.programmingadvanced.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "TM.ProgrammingAdvanced >= 1.0.3"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\elkeb\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\elkeb\\Source\\Repos\\ElkeBoonen\\ProgrammingAdvanced\\Recursion\\Recursion.csproj",
+      "projectName": "Recursion",
+      "projectPath": "C:\\Users\\elkeb\\Source\\Repos\\ElkeBoonen\\ProgrammingAdvanced\\Recursion\\Recursion.csproj",
+      "packagesPath": "C:\\Users\\elkeb\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\elkeb\\Source\\Repos\\ElkeBoonen\\ProgrammingAdvanced\\Recursion\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\elkeb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "dependencies": {
+          "TM.ProgrammingAdvanced": {
+            "target": "Package",
+            "version": "[1.0.3, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
