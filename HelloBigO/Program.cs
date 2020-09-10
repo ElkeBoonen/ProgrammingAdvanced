@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 using TM.ProgrammingAdvanced;
 
 namespace HelloBigO
@@ -28,19 +29,19 @@ namespace HelloBigO
                 guesses++;
                 if (numbers[position] == number) return position;
             }
-            while (guesses < (numbers.Length * 2));
+            while (guesses < (numbers.Length));
             return -1;
         }
        
         public static int BinarySearch(int[] numbers, int number, out int guesses)
         {
             int min = 0;
-            int max = numbers.Length;
+            int max = numbers.Length-1;
 
             int position = (min + max) / 2;
             guesses = 1;
 
-            while (min < max)
+            while (min <= max)
             {
                 if (number == numbers[position])
                 {
@@ -60,22 +61,46 @@ namespace HelloBigO
             return -1;
         }
 
+
+        public static void BigO(int[] nrs)
+        {
+            int guesses;
+
+            /*range of numbers array is  [-999,999]
+            so check every number in this range, let's see how many guesses
+            every method needs to find the position of the number*/
+
+            StreamWriter file = File.CreateText("guesses.txt");
+
+            file.WriteLine("NUMBER;SIMPLE;GUESSES;STUPID;GUESSES;BINARY;GUESSES");
+            for (int i = -999; i <= 999; i++)
+            {
+                file.Write(i + ";");
+                file.Write(SimpleSearch(nrs, i, out guesses) + ";" + guesses + ";");
+                file.Write(StupidSearch(nrs, i, out guesses) + ";" + guesses + ";");
+                file.WriteLine(BinarySearch(nrs, i, out guesses) + ";" + guesses);
+            }
+            file.Close();
+
+        }
+
+
         static void Main(string[] args)
         {
-            int[] nrs = TM.ProgrammingAdvanced.Data.Numbers;
+            int[] nrs = Data.Numbers;
 
-            Console.WriteLine("Enter number to find: ");
+            Console.Write("Enter number to find: ");
             string answer = Console.ReadLine();
-            int nr;
 
-            while (Int32.TryParse(answer, out nr))
+            int number;
+            while(Int32.TryParse(answer, out number))
             {
                 int guesses;
-                Console.WriteLine("Simple: " + SimpleSearch(nrs, nr, out guesses) + " (" + guesses + " guesses)");
-                Console.WriteLine("Stupid: " + StupidSearch(nrs, nr, out guesses) + " (" + guesses + " guesses)");
-                Console.WriteLine("Binary: " + BinarySearch(nrs, nr, out guesses) + " (" + guesses + " guesses)");
-                
-                Console.Write("Enter next number: ");
+                Console.WriteLine("Simple search - position at " + SimpleSearch(nrs, number, out guesses) + " (" + guesses + " guesses)");
+                Console.WriteLine("Stupid search - position at " + StupidSearch(nrs, number, out guesses) + " (" + guesses + " guesses)");
+                Console.WriteLine("Binary search - position at " + BinarySearch(nrs, number, out guesses) + " (" + guesses + " guesses)");
+
+                Console.Write("\nNext number to find: ");
                 answer = Console.ReadLine();
             }
 
