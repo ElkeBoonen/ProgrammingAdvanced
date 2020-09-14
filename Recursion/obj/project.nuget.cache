@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "kUAFxd6nsPmxt4P5V/VWweTbINivklHCTTISLpUsZBoC/bzAbVubNq+DQYiefpdXlLfL7/xYj2sfbNOJyLboXA==",
+  "dgSpecHash": "ZjXnI+snOqkQzFXzGvTcb6pL95ucbC4kuhP48QOfL2FWUsLucnl32eN+dWRgVgmbXquX1/hFy/ywOgw+ediw/w==",
   "success": true,
   "projectFilePath": "C:\\Users\\elkeb\\source\\repos\\ElkeBoonen\\ProgrammingAdvanced\\Recursion\\Recursion.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\elkeb\\.nuget\\packages\\tm.programmingadvanced\\1.0.4\\tm.programmingadvanced.1.0.4.nupkg.sha512"
+  ],
   "logs": []
 }
