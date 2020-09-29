@@ -1,0 +1,101 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TM.ProgrammingAdvanced/1.0.4": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/TM.ProgrammingAdvanced.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/TM.ProgrammingAdvanced.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TM.ProgrammingAdvanced/1.0.4": {
+      "sha512": "EYv1eMsgDWsIYK/FToKPC5irypqnhJ7VE+NsIsOhqFb/yLrDsaLIIFXPQ1X4p2KobiyysUMfJGMfCBg91GPsMw==",
+      "type": "package",
+      "path": "tm.programmingadvanced/1.0.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/TM.ProgrammingAdvanced.dll",
+        "license.txt",
+        "tm.programmingadvanced.1.0.4.nupkg.sha512",
+        "tm.programmingadvanced.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "TM.ProgrammingAdvanced >= 1.0.4"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\elkeb\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\elkeb\\Source\\Repos\\ElkeBoonen\\ProgrammingAdvanced\\DataStructures\\DataStructures.csproj",
+      "projectName": "DataStructures",
+      "projectPath": "C:\\Users\\elkeb\\Source\\Repos\\ElkeBoonen\\ProgrammingAdvanced\\DataStructures\\DataStructures.csproj",
+      "packagesPath": "C:\\Users\\elkeb\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\elkeb\\Source\\Repos\\ElkeBoonen\\ProgrammingAdvanced\\DataStructures\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\elkeb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "TM.ProgrammingAdvanced": {
+            "target": "Package",
+            "version": "[1.0.4, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
