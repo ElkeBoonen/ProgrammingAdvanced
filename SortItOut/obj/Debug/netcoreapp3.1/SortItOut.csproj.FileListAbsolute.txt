@@ -1,0 +1,15 @@
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\SortItOut\bin\Debug\netcoreapp3.1\SortItOut.exe
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\SortItOut\bin\Debug\netcoreapp3.1\SortItOut.deps.json
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\SortItOut\bin\Debug\netcoreapp3.1\SortItOut.runtimeconfig.json
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\SortItOut\bin\Debug\netcoreapp3.1\SortItOut.runtimeconfig.dev.json
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\SortItOut\bin\Debug\netcoreapp3.1\SortItOut.dll
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\SortItOut\bin\Debug\netcoreapp3.1\SortItOut.pdb
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\SortItOut\obj\Debug\netcoreapp3.1\SortItOut.csprojAssemblyReference.cache
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\SortItOut\obj\Debug\netcoreapp3.1\SortItOut.AssemblyInfoInputs.cache
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\SortItOut\obj\Debug\netcoreapp3.1\SortItOut.AssemblyInfo.cs
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\SortItOut\obj\Debug\netcoreapp3.1\SortItOut.dll
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\SortItOut\obj\Debug\netcoreapp3.1\SortItOut.pdb
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\SortItOut\obj\Debug\netcoreapp3.1\SortItOut.genruntimeconfig.cache
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\SortItOut\bin\Debug\netcoreapp3.1\TM.ProgrammingAdvanced.dll
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\SortItOut\obj\Debug\netcoreapp3.1\SortItOut.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\SortItOut\obj\Debug\netcoreapp3.1\SortItOut.csproj.CopyComplete

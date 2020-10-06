@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "N7c5ChGtYjQ1RYJsoj6YPJD3npQhL7AVQET9GLzNIdI+xZMY5oncprAZm/m9kFa1/UStQvl0u9s10gZmD4poVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elkeb\\source\\repos\\ElkeBoonen\\ProgrammingAdvanced\\SortItOut\\SortItOut.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elkeb\\.nuget\\packages\\tm.programmingadvanced\\1.0.5\\tm.programmingadvanced.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
