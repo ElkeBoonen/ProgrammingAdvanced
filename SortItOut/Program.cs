@@ -150,7 +150,6 @@ namespace SortItOut
             
             int_array = GetFirstSongs(10);
             SelectionSort(int_array);
-            Print(int_array);
 
             int_array = GetFirstSongs(10);
             InsertionSort(int_array);
