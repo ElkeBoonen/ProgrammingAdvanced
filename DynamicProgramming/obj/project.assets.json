@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\elkeb\\source\\repos\\ElkeBoonen\\ProgrammingAdvanced\\DynamicProgramming\\DynamicProgramming.csproj",
+      "projectUniqueName": "C:\\Users\\elkeb\\Source\\Repos\\ElkeBoonen\\ProgrammingAdvanced\\DynamicProgramming\\DynamicProgramming.csproj",
       "projectName": "DynamicProgramming",
-      "projectPath": "C:\\Users\\elkeb\\source\\repos\\ElkeBoonen\\ProgrammingAdvanced\\DynamicProgramming\\DynamicProgramming.csproj",
+      "projectPath": "C:\\Users\\elkeb\\Source\\Repos\\ElkeBoonen\\ProgrammingAdvanced\\DynamicProgramming\\DynamicProgramming.csproj",
       "packagesPath": "C:\\Users\\elkeb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\elkeb\\source\\repos\\ElkeBoonen\\ProgrammingAdvanced\\DynamicProgramming\\obj\\",
+      "outputPath": "C:\\Users\\elkeb\\Source\\Repos\\ElkeBoonen\\ProgrammingAdvanced\\DynamicProgramming\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -62,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
