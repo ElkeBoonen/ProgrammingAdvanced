@@ -1,0 +1,13 @@
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\DynamicProgramming\bin\Debug\netcoreapp3.1\DynamicProgramming.exe
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\DynamicProgramming\bin\Debug\netcoreapp3.1\DynamicProgramming.deps.json
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\DynamicProgramming\bin\Debug\netcoreapp3.1\DynamicProgramming.runtimeconfig.json
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\DynamicProgramming\bin\Debug\netcoreapp3.1\DynamicProgramming.runtimeconfig.dev.json
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\DynamicProgramming\bin\Debug\netcoreapp3.1\DynamicProgramming.dll
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\DynamicProgramming\bin\Debug\netcoreapp3.1\DynamicProgramming.pdb
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\DynamicProgramming\obj\Debug\netcoreapp3.1\DynamicProgramming.csprojAssemblyReference.cache
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\DynamicProgramming\obj\Debug\netcoreapp3.1\DynamicProgramming.AssemblyInfoInputs.cache
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\DynamicProgramming\obj\Debug\netcoreapp3.1\DynamicProgramming.AssemblyInfo.cs
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\DynamicProgramming\obj\Debug\netcoreapp3.1\DynamicProgramming.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\DynamicProgramming\obj\Debug\netcoreapp3.1\DynamicProgramming.dll
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\DynamicProgramming\obj\Debug\netcoreapp3.1\DynamicProgramming.pdb
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\DynamicProgramming\obj\Debug\netcoreapp3.1\DynamicProgramming.genruntimeconfig.cache

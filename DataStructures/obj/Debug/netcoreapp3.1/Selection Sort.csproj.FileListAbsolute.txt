@@ -1,0 +1,15 @@
+C:\Users\elkeb\Source\Repos\ElkeBoonen\ProgrammingAdvanced\DataStructures\obj\Debug\netcoreapp3.1\Selection Sort.AssemblyInfoInputs.cache
+C:\Users\elkeb\Source\Repos\ElkeBoonen\ProgrammingAdvanced\DataStructures\obj\Debug\netcoreapp3.1\Selection Sort.AssemblyInfo.cs
+C:\Users\elkeb\Source\Repos\ElkeBoonen\ProgrammingAdvanced\DataStructures\bin\Debug\netcoreapp3.1\Selection Sort.exe
+C:\Users\elkeb\Source\Repos\ElkeBoonen\ProgrammingAdvanced\DataStructures\bin\Debug\netcoreapp3.1\Selection Sort.deps.json
+C:\Users\elkeb\Source\Repos\ElkeBoonen\ProgrammingAdvanced\DataStructures\bin\Debug\netcoreapp3.1\Selection Sort.runtimeconfig.json
+C:\Users\elkeb\Source\Repos\ElkeBoonen\ProgrammingAdvanced\DataStructures\bin\Debug\netcoreapp3.1\Selection Sort.runtimeconfig.dev.json
+C:\Users\elkeb\Source\Repos\ElkeBoonen\ProgrammingAdvanced\DataStructures\bin\Debug\netcoreapp3.1\Selection Sort.dll
+C:\Users\elkeb\Source\Repos\ElkeBoonen\ProgrammingAdvanced\DataStructures\bin\Debug\netcoreapp3.1\Selection Sort.pdb
+C:\Users\elkeb\Source\Repos\ElkeBoonen\ProgrammingAdvanced\DataStructures\obj\Debug\netcoreapp3.1\Selection Sort.dll
+C:\Users\elkeb\Source\Repos\ElkeBoonen\ProgrammingAdvanced\DataStructures\obj\Debug\netcoreapp3.1\Selection Sort.pdb
+C:\Users\elkeb\Source\Repos\ElkeBoonen\ProgrammingAdvanced\DataStructures\obj\Debug\netcoreapp3.1\Selection Sort.genruntimeconfig.cache
+C:\Users\elkeb\Source\Repos\ElkeBoonen\ProgrammingAdvanced\DataStructures\obj\Debug\netcoreapp3.1\Selection Sort.csprojAssemblyReference.cache
+C:\Users\elkeb\Source\Repos\ElkeBoonen\ProgrammingAdvanced\DataStructures\bin\Debug\netcoreapp3.1\TM.ProgrammingAdvanced.dll
+C:\Users\elkeb\Source\Repos\ElkeBoonen\ProgrammingAdvanced\DataStructures\obj\Debug\netcoreapp3.1\Selection Sort.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\Source\Repos\ElkeBoonen\ProgrammingAdvanced\DataStructures\obj\Debug\netcoreapp3.1\Selection Sort.csproj.CopyComplete
