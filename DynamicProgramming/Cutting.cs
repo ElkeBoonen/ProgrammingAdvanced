@@ -53,8 +53,8 @@ namespace DynamicProgramming
 
         public int Tabulation(int n)
         {
+            Dictionary<int, string> cuts = new Dictionary<int, string>();
             int[] tabulation = new int[_length + 1];
-            int[] s = new int[_length + 1];
             tabulation[0] = 0;
 
             for (int i = 1; i <= n; i++)
@@ -63,8 +63,10 @@ namespace DynamicProgramming
                 for (int j = 1; j <= i; j++)
                 {
                     max = Math.Max(max, Prices[j - 1] + tabulation[i - j]);
+                    Console.Write(Prices[j - 1] + tabulation[i - j] + " ");
                     tabulation[i] = max;
                 }
+                Console.WriteLine();
             }
             return tabulation[n];
         }

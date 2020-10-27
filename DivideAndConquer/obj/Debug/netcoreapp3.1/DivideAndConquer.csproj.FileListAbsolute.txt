@@ -1,0 +1,15 @@
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\DivideAndConquer\bin\Debug\netcoreapp3.1\DivideAndConquer.exe
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\DivideAndConquer\bin\Debug\netcoreapp3.1\DivideAndConquer.deps.json
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\DivideAndConquer\bin\Debug\netcoreapp3.1\DivideAndConquer.runtimeconfig.json
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\DivideAndConquer\bin\Debug\netcoreapp3.1\DivideAndConquer.runtimeconfig.dev.json
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\DivideAndConquer\bin\Debug\netcoreapp3.1\DivideAndConquer.dll
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\DivideAndConquer\bin\Debug\netcoreapp3.1\DivideAndConquer.pdb
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\DivideAndConquer\obj\Debug\netcoreapp3.1\DivideAndConquer.csprojAssemblyReference.cache
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\DivideAndConquer\obj\Debug\netcoreapp3.1\DivideAndConquer.AssemblyInfoInputs.cache
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\DivideAndConquer\obj\Debug\netcoreapp3.1\DivideAndConquer.AssemblyInfo.cs
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\DivideAndConquer\obj\Debug\netcoreapp3.1\DivideAndConquer.dll
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\DivideAndConquer\obj\Debug\netcoreapp3.1\DivideAndConquer.pdb
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\DivideAndConquer\obj\Debug\netcoreapp3.1\DivideAndConquer.genruntimeconfig.cache
+C:\Users\elkeb\Source\Repos\ElkeBoonen\ProgrammingAdvanced\DivideAndConquer\bin\Debug\netcoreapp3.1\TM.ProgrammingAdvanced.dll
+C:\Users\elkeb\Source\Repos\ElkeBoonen\ProgrammingAdvanced\DivideAndConquer\obj\Debug\netcoreapp3.1\DivideAndConquer.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\Source\Repos\ElkeBoonen\ProgrammingAdvanced\DivideAndConquer\obj\Debug\netcoreapp3.1\DivideAndConquer.csproj.CopyComplete

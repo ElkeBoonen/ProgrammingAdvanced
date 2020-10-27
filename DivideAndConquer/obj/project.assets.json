@@ -40,11 +40,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\elkeb\\Source\\Repos\\ElkeBoonen\\ProgrammingAdvanced\\SortItOut\\SortItOut.csproj",
-      "projectName": "SortItOut",
-      "projectPath": "C:\\Users\\elkeb\\Source\\Repos\\ElkeBoonen\\ProgrammingAdvanced\\SortItOut\\SortItOut.csproj",
+      "projectUniqueName": "C:\\Users\\elkeb\\source\\repos\\ElkeBoonen\\ProgrammingAdvanced\\DivideAndConquer\\DivideAndConquer.csproj",
+      "projectName": "DivideAndConquer",
+      "projectPath": "C:\\Users\\elkeb\\source\\repos\\ElkeBoonen\\ProgrammingAdvanced\\DivideAndConquer\\DivideAndConquer.csproj",
       "packagesPath": "C:\\Users\\elkeb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\elkeb\\Source\\Repos\\ElkeBoonen\\ProgrammingAdvanced\\SortItOut\\obj\\",
+      "outputPath": "C:\\Users\\elkeb\\source\\repos\\ElkeBoonen\\ProgrammingAdvanced\\DivideAndConquer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

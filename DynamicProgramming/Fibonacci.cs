@@ -28,7 +28,7 @@ namespace DynamicProgramming
 
         public int Recursive(int number)
         {
-            Operations++;
+            //Operations++;
             //Console.Write("call with " + number + " ");
             if (number <= 1) return number;
 
