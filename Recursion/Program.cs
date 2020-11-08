@@ -69,6 +69,19 @@ namespace Recursion
             else return 1;
         }
 
+        //recursion uses call stack, so we can do the same :)
+        static int FactorialStack(int number)
+        {
+            Stack<int> stack = new Stack<int>();
+            stack.Push(1);
+
+            for (int i = 1; i <= n; ++i)
+            {
+                stack.Push(stack.Pop() * i);
+            }
+            return stack.Pop();
+        }
+
         static void Main(string[] args)
         {
             string box = Data.Folders(@"C:\");

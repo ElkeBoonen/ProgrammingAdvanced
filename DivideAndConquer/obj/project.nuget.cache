@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LDng7c9NRxFG3e+RtkAUHEK16b5k83xzZhP+7xRwCNWbL58F7nDx0/Uj5U9huwY+RPEOK7bxXbiLxToKvaM66g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elkeb\\Source\\Repos\\ElkeBoonen\\ProgrammingAdvanced\\DivideAndConquer\\DivideAndConquer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elkeb\\.nuget\\packages\\tm.programmingadvanced\\1.0.5\\tm.programmingadvanced.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
