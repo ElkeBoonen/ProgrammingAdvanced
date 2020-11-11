@@ -1,54 +1,24 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {
-      "TM.ProgrammingAdvanced/1.0.4": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard2.0/TM.ProgrammingAdvanced.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/TM.ProgrammingAdvanced.dll": {}
-        }
-      }
-    }
+    ".NETCoreApp,Version=v3.1": {}
   },
-  "libraries": {
-    "TM.ProgrammingAdvanced/1.0.4": {
-      "sha512": "EYv1eMsgDWsIYK/FToKPC5irypqnhJ7VE+NsIsOhqFb/yLrDsaLIIFXPQ1X4p2KobiyysUMfJGMfCBg91GPsMw==",
-      "type": "package",
-      "path": "tm.programmingadvanced/1.0.4",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/netstandard2.0/TM.ProgrammingAdvanced.dll",
-        "license.txt",
-        "tm.programmingadvanced.1.0.4.nupkg.sha512",
-        "tm.programmingadvanced.nuspec"
-      ]
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": [
-      "TM.ProgrammingAdvanced >= 1.0.4"
-    ]
+    ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\elkeb\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\elkeb\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\elkeb\\source\\repos\\ElkeBoonen\\ProgrammingAdvanced\\Recursion\\Recursion.csproj",
+      "projectUniqueName": "C:\\Users\\elkeb\\Source\\Repos\\ElkeBoonen\\ProgrammingAdvanced\\Recursion\\Recursion.csproj",
       "projectName": "Recursion",
-      "projectPath": "C:\\Users\\elkeb\\source\\repos\\ElkeBoonen\\ProgrammingAdvanced\\Recursion\\Recursion.csproj",
+      "projectPath": "C:\\Users\\elkeb\\Source\\Repos\\ElkeBoonen\\ProgrammingAdvanced\\Recursion\\Recursion.csproj",
       "packagesPath": "C:\\Users\\elkeb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\elkeb\\source\\repos\\ElkeBoonen\\ProgrammingAdvanced\\Recursion\\obj\\",
+      "outputPath": "C:\\Users\\elkeb\\Source\\Repos\\ElkeBoonen\\ProgrammingAdvanced\\Recursion\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "C:\\Users\\elkeb\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -73,12 +43,6 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "dependencies": {
-          "TM.ProgrammingAdvanced": {
-            "target": "Package",
-            "version": "[1.0.4, )"
-          }
-        },
         "imports": [
           "net461",
           "net462",
@@ -89,12 +53,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
