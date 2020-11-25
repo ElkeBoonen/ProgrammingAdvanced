@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elkeb\\Source\\Repos\\ElkeBoonen\\ProgrammingAdvanced\\DataStructures\\DataStructures.csproj": {}
+    "C:\\Users\\elkeb\\Source\\Repos\\ElkeBoonen\\ProgrammingAdvanced\\Graphs\\Graphs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elkeb\\Source\\Repos\\ElkeBoonen\\ProgrammingAdvanced\\DataStructures\\DataStructures.csproj": {
+    "C:\\Users\\elkeb\\Source\\Repos\\ElkeBoonen\\ProgrammingAdvanced\\Graphs\\Graphs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elkeb\\Source\\Repos\\ElkeBoonen\\ProgrammingAdvanced\\DataStructures\\DataStructures.csproj",
-        "projectName": "DataStructures",
-        "projectPath": "C:\\Users\\elkeb\\Source\\Repos\\ElkeBoonen\\ProgrammingAdvanced\\DataStructures\\DataStructures.csproj",
+        "projectUniqueName": "C:\\Users\\elkeb\\Source\\Repos\\ElkeBoonen\\ProgrammingAdvanced\\Graphs\\Graphs.csproj",
+        "projectName": "Graphs",
+        "projectPath": "C:\\Users\\elkeb\\Source\\Repos\\ElkeBoonen\\ProgrammingAdvanced\\Graphs\\Graphs.csproj",
         "packagesPath": "C:\\Users\\elkeb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elkeb\\Source\\Repos\\ElkeBoonen\\ProgrammingAdvanced\\DataStructures\\obj\\",
+        "outputPath": "C:\\Users\\elkeb\\Source\\Repos\\ElkeBoonen\\ProgrammingAdvanced\\Graphs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -40,12 +40,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "dependencies": {
-            "TM.ProgrammingAdvanced": {
-              "target": "Package",
-              "version": "[1.0.4, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

@@ -1,37 +1,11 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {
-      "TM.ProgrammingAdvanced/1.0.4": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard2.0/TM.ProgrammingAdvanced.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/TM.ProgrammingAdvanced.dll": {}
-        }
-      }
-    }
+    ".NETCoreApp,Version=v3.1": {}
   },
-  "libraries": {
-    "TM.ProgrammingAdvanced/1.0.4": {
-      "sha512": "EYv1eMsgDWsIYK/FToKPC5irypqnhJ7VE+NsIsOhqFb/yLrDsaLIIFXPQ1X4p2KobiyysUMfJGMfCBg91GPsMw==",
-      "type": "package",
-      "path": "tm.programmingadvanced/1.0.4",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/netstandard2.0/TM.ProgrammingAdvanced.dll",
-        "license.txt",
-        "tm.programmingadvanced.1.0.4.nupkg.sha512",
-        "tm.programmingadvanced.nuspec"
-      ]
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": [
-      "TM.ProgrammingAdvanced >= 1.0.4"
-    ]
+    ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
     "C:\\Users\\elkeb\\.nuget\\packages\\": {},
@@ -40,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\elkeb\\Source\\Repos\\ElkeBoonen\\ProgrammingAdvanced\\DataStructures\\DataStructures.csproj",
-      "projectName": "DataStructures",
-      "projectPath": "C:\\Users\\elkeb\\Source\\Repos\\ElkeBoonen\\ProgrammingAdvanced\\DataStructures\\DataStructures.csproj",
+      "projectUniqueName": "C:\\Users\\elkeb\\source\\repos\\ElkeBoonen\\ProgrammingAdvanced\\Graphs\\Graphs.csproj",
+      "projectName": "Graphs",
+      "projectPath": "C:\\Users\\elkeb\\source\\repos\\ElkeBoonen\\ProgrammingAdvanced\\Graphs\\Graphs.csproj",
       "packagesPath": "C:\\Users\\elkeb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\elkeb\\Source\\Repos\\ElkeBoonen\\ProgrammingAdvanced\\DataStructures\\obj\\",
+      "outputPath": "C:\\Users\\elkeb\\source\\repos\\ElkeBoonen\\ProgrammingAdvanced\\Graphs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -73,12 +47,6 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "dependencies": {
-          "TM.ProgrammingAdvanced": {
-            "target": "Package",
-            "version": "[1.0.4, )"
-          }
-        },
         "imports": [
           "net461",
           "net462",
