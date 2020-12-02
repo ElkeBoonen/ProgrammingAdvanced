@@ -1,0 +1,13 @@
+C:\Users\elkeb\Source\Repos\ElkeBoonen\ProgrammingAdvanced\WeightedGraphs\bin\Debug\netcoreapp3.1\WeightedGraphs.exe
+C:\Users\elkeb\Source\Repos\ElkeBoonen\ProgrammingAdvanced\WeightedGraphs\bin\Debug\netcoreapp3.1\WeightedGraphs.deps.json
+C:\Users\elkeb\Source\Repos\ElkeBoonen\ProgrammingAdvanced\WeightedGraphs\bin\Debug\netcoreapp3.1\WeightedGraphs.runtimeconfig.json
+C:\Users\elkeb\Source\Repos\ElkeBoonen\ProgrammingAdvanced\WeightedGraphs\bin\Debug\netcoreapp3.1\WeightedGraphs.runtimeconfig.dev.json
+C:\Users\elkeb\Source\Repos\ElkeBoonen\ProgrammingAdvanced\WeightedGraphs\bin\Debug\netcoreapp3.1\WeightedGraphs.dll
+C:\Users\elkeb\Source\Repos\ElkeBoonen\ProgrammingAdvanced\WeightedGraphs\bin\Debug\netcoreapp3.1\WeightedGraphs.pdb
+C:\Users\elkeb\Source\Repos\ElkeBoonen\ProgrammingAdvanced\WeightedGraphs\obj\Debug\netcoreapp3.1\WeightedGraphs.csprojAssemblyReference.cache
+C:\Users\elkeb\Source\Repos\ElkeBoonen\ProgrammingAdvanced\WeightedGraphs\obj\Debug\netcoreapp3.1\WeightedGraphs.AssemblyInfoInputs.cache
+C:\Users\elkeb\Source\Repos\ElkeBoonen\ProgrammingAdvanced\WeightedGraphs\obj\Debug\netcoreapp3.1\WeightedGraphs.AssemblyInfo.cs
+C:\Users\elkeb\Source\Repos\ElkeBoonen\ProgrammingAdvanced\WeightedGraphs\obj\Debug\netcoreapp3.1\WeightedGraphs.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\Source\Repos\ElkeBoonen\ProgrammingAdvanced\WeightedGraphs\obj\Debug\netcoreapp3.1\WeightedGraphs.dll
+C:\Users\elkeb\Source\Repos\ElkeBoonen\ProgrammingAdvanced\WeightedGraphs\obj\Debug\netcoreapp3.1\WeightedGraphs.pdb
+C:\Users\elkeb\Source\Repos\ElkeBoonen\ProgrammingAdvanced\WeightedGraphs\obj\Debug\netcoreapp3.1\WeightedGraphs.genruntimeconfig.cache
