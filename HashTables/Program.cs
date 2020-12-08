@@ -29,13 +29,14 @@ namespace HashTables
             Console.WriteLine(book.ToString());*/
 
             
-            Book_HashSep book = new Book_HashSep(5);
+            Book_HashSep book = new Book_HashSep(10);
             book.AddItem("apple", 0.67);
             book.AddItem("pear", 0.79);
             book.AddItem("eggs", 2.49);
-            book.AddItem("milk", 1.49);
             book.AddItem("avocado", 1.49);
+            Console.WriteLine(book.ToString());
             book.AddItem("bread", 2.49);
+            Console.WriteLine(book.ToString());
             book.AddItem("banana", 1.09);
             Console.WriteLine(book.ToString());
             Console.WriteLine("Price of eggs: " + book.GetPrice("eggs"));

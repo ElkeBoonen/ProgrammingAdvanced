@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ALmS7tB7+aVYUBupHUjQUNAU3XJ02gO0zeFo6kzlptJ6OROMCRgM1zleWLis+OzbaPBVRoVbBNCXuV3229OHyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elkeb\\Source\\Repos\\ElkeBoonen\\ProgrammingAdvanced\\Greedy\\Greedy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elkeb\\.nuget\\packages\\optimizedpriorityqueue\\5.0.0\\optimizedpriorityqueue.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

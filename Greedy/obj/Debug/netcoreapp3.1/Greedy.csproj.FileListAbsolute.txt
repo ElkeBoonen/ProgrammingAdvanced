@@ -1,0 +1,15 @@
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\Greedy\bin\Debug\netcoreapp3.1\Greedy.exe
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\Greedy\bin\Debug\netcoreapp3.1\Greedy.deps.json
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\Greedy\bin\Debug\netcoreapp3.1\Greedy.runtimeconfig.json
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\Greedy\bin\Debug\netcoreapp3.1\Greedy.runtimeconfig.dev.json
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\Greedy\bin\Debug\netcoreapp3.1\Greedy.dll
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\Greedy\bin\Debug\netcoreapp3.1\Greedy.pdb
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\Greedy\obj\Debug\netcoreapp3.1\Greedy.csprojAssemblyReference.cache
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\Greedy\obj\Debug\netcoreapp3.1\Greedy.AssemblyInfoInputs.cache
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\Greedy\obj\Debug\netcoreapp3.1\Greedy.AssemblyInfo.cs
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\Greedy\obj\Debug\netcoreapp3.1\Greedy.dll
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\Greedy\obj\Debug\netcoreapp3.1\Greedy.pdb
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\Greedy\obj\Debug\netcoreapp3.1\Greedy.genruntimeconfig.cache
+C:\Users\elkeb\Source\Repos\ElkeBoonen\ProgrammingAdvanced\Greedy\bin\Debug\netcoreapp3.1\PriorityQueue.dll
+C:\Users\elkeb\Source\Repos\ElkeBoonen\ProgrammingAdvanced\Greedy\obj\Debug\netcoreapp3.1\Greedy.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\Source\Repos\ElkeBoonen\ProgrammingAdvanced\Greedy\obj\Debug\netcoreapp3.1\Greedy.csproj.CopyComplete

@@ -9,3 +9,5 @@ C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\HashTables\obj\Debug\
 C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\HashTables\obj\Debug\netcoreapp3.0\HashTables.AssemblyInfo.cs
 C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\HashTables\obj\Debug\netcoreapp3.0\HashTables.dll
 C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\HashTables\obj\Debug\netcoreapp3.0\HashTables.pdb
+C:\Users\elkeb\Source\Repos\ElkeBoonen\ProgrammingAdvanced\HashTables\obj\Debug\netcoreapp3.0\HashTables.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\Source\Repos\ElkeBoonen\ProgrammingAdvanced\HashTables\obj\Debug\netcoreapp3.0\HashTables.genruntimeconfig.cache
