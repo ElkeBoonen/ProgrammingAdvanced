@@ -1,0 +1,13 @@
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\Knapsack\Knapsack\bin\Debug\netcoreapp3.1\Knapsack.exe
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\Knapsack\Knapsack\bin\Debug\netcoreapp3.1\Knapsack.deps.json
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\Knapsack\Knapsack\bin\Debug\netcoreapp3.1\Knapsack.runtimeconfig.json
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\Knapsack\Knapsack\bin\Debug\netcoreapp3.1\Knapsack.runtimeconfig.dev.json
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\Knapsack\Knapsack\bin\Debug\netcoreapp3.1\Knapsack.dll
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\Knapsack\Knapsack\bin\Debug\netcoreapp3.1\Knapsack.pdb
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\Knapsack\Knapsack\obj\Debug\netcoreapp3.1\Knapsack.csprojAssemblyReference.cache
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\Knapsack\Knapsack\obj\Debug\netcoreapp3.1\Knapsack.AssemblyInfoInputs.cache
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\Knapsack\Knapsack\obj\Debug\netcoreapp3.1\Knapsack.AssemblyInfo.cs
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\Knapsack\Knapsack\obj\Debug\netcoreapp3.1\Knapsack.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\Knapsack\Knapsack\obj\Debug\netcoreapp3.1\Knapsack.dll
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\Knapsack\Knapsack\obj\Debug\netcoreapp3.1\Knapsack.pdb
+C:\Users\elkeb\source\repos\ElkeBoonen\ProgrammingAdvanced\Knapsack\Knapsack\obj\Debug\netcoreapp3.1\Knapsack.genruntimeconfig.cache
