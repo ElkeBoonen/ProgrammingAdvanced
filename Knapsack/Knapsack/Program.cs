@@ -22,6 +22,9 @@ namespace Knapsack
             Console.WriteLine($"Divide & conquer: {sack.Recursive(sack.MaxWeight, 0)}");
             Console.WriteLine($"Dynamic: {sack.Dynamic()}");
 
+            KnapsackGraph graph = new KnapsackGraph(list, 10);
+            Console.WriteLine($"Graph: {graph.GetMaxValue()}");
+
         }
     }
 }
